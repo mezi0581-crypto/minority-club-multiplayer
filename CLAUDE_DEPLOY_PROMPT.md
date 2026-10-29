@@ -1,0 +1,1 @@
+첨부한 ZIP에는 MINORITY CLUB 모바일 게임의 프론트엔드와 14명 동시접속 서버(server.js)가 이미 완성되어 있습니다. 새로 개발하지 말고 이 코드를 그대로 GitHub 저장소에 업로드한 뒤, Node.js 서버 실행이 가능한 호스팅(Render 또는 Railway)에 연결하여 배포해 주세요. 시작 명령은 npm start이고 PORT 환경변수를 지원합니다. GitHub Pages만으로는 멀티플레이가 불가능합니다. npm test를 실행하고, 배포 후 휴대폰에서 접속할 HTTPS URL을 알려주세요.
