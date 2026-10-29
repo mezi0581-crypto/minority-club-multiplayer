@@ -1,0 +1,1 @@
+{"name":"minority-club","version":"1.0.0","private":true,"description":"2-14 player real-time minority game","scripts":{"start":"node server.js","test":"node test.js"},"engines":{"node":">=18"}}
